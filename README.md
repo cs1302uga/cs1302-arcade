@@ -1,6 +1,7 @@
 # CSCI 1302 - Arcade App v2020.fa
 
 ![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+![Team Size: 1](https://img.shields.io/badge/Team%20Size-1-informational)
 
 This document contains the description for the `cs1302-arcade` project
 that is assigned to the students in the CSCI 1302 classes
