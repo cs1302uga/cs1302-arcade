@@ -371,7 +371,7 @@ made to modify your submission to evaluate other requirements.
   Your instructors will have access to your private repository's history. This
   means that they can see what you did and when based on the git log.
 
-* **Development Environment:** This project must be implemented 
+* **<a id="devenv"/>Development Environment:** This project must be implemented 
   in Java 11, and it *must compile and run* correctly on Odin using the specific
   version of Java 11 that is setup according to the instructions provided
   by your instructor. For this requirement, the term *compile* should be 
