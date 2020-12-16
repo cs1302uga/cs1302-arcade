@@ -3,6 +3,12 @@
 ![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
 ![Team Size: 1](https://img.shields.io/badge/Team%20Size-1-informational)
 
+<hr>
+
+**The [final late submission deadline](#final-submission-deadline) has passed for Fall 2020.**
+
+</hr>
+
 This document contains the description for the `cs1302-arcade` project
 that is assigned to the students in the CSCI 1302 classes
 at the University of Georgia.
