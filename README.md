@@ -7,7 +7,7 @@
 
 **The [final late submission deadline](#final-submission-deadline) has passed for Fall 2020.**
 
-</hr>
+<hr>
 
 This document contains the description for the `cs1302-arcade` project
 that is assigned to the students in the CSCI 1302 classes
