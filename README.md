@@ -642,7 +642,7 @@ a useful resource as well.
    specifically the methods that start with `setOnMouse` and `setOnKey`, to see the
    different types of mouse and keyboard events you can handle. Here is a simple example
    that prints the current time (using
-   [`LocalTime`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/time/LocalTime.html)) to
+   [`LocalTime`](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/time/LocalTime.html)) to
    standard output when a user clicks on an `ImageView` object (referenced by `iv`) that
    is assumed to be visible within the current scene graph:
    ```java
